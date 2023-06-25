@@ -1,0 +1,188 @@
+{
+  "Workouts": [
+    {
+      "Warmups": "https://pumpsandiron.com/wp-content/uploads/2016/09/5-minute-warm-up-workouts.jpg"
+    },
+    {
+      "Pushups": "https://fitnessvolt.com/wp-content/uploads/2019/04/push-up-750x474.jpg"
+    },
+    {
+      "Biceps": "https://www.womenshealthmag.com/uk/fitness/strength-training/a708267/bicep-curl/"
+    },
+    {
+      "Triceps": ""
+    },
+    {
+      "rotating plank": "https://blog.fizzup.com/wp-content/uploads/2016/12/PlancheEnT-02.png"
+    },
+    {
+      "bench press": "https://www.bodybuildingmealplan.com/wp-content/uploads/Incline-Bench-Press-vs-Flat-Bench-Press-1200x787.jpg"
+    },
+    {
+      "Shoulders": "https://fitliferegime-1eaed.kxcdn.com/wp-content/uploads/2021/12/Overhead-Dumbbell-Press.webp"
+    },
+    {
+      "Jogging": "https://static.toiimg.com/thumb/72532520.cms?width=680&height=512&imgsize=1125370"
+    },
+    {
+      "Crunches": "https://modusx.de/wp-content/uploads/2021/10/reverse-crunch.jpg"
+    },
+    {
+      "Pull up": "https://content.artofmanliness.com/uploads/2021/09/Perfect-Pullup-WEB-2.jpg"
+    }
+  ],
+  "excercises": [
+    {
+      "id": 1,
+      "exercise": "Push-ups",
+      "description": "Push-ups are a great compound exercise that targets your chest, shoulders, and triceps. Begin in a plank position with your hands shoulder-width apart. Lower your body until your chest nearly touches the floor, then push back up.",
+      "reps": "10-15"
+    },
+    {
+      "id": 2,
+      "exercise": "Squats",
+      "description": "Squats are a fundamental lower body exercise that targets your quadriceps, hamstrings, and glutes. Start with your feet shoulder-width apart, lower your body by bending your knees and hips, then return to the starting position.",
+      "reps": "12-15"
+    },
+    {
+      "id": 3,
+      "exercise": "Lunges",
+      "description": "Lunges are an effective exercise for targeting your quadriceps, hamstrings, and glutes. Stand with your feet hip-width apart, take a big step forward with one leg, lower your body until your front knee is at a 90-degree angle, then return to the starting position.",
+      "reps": "10-12 (per leg)"
+    },
+    {
+      "id": 4,
+      "exercise": "Burpees",
+      "description": "Burpees are a full-body exercise that combines a squat, plank, and jump. Begin in a standing position, drop down to a squat, kick your feet back into a plank, perform a push-up, jump your feet back to the squat position, then jump up explosively.",
+      "reps": "8-10"
+    },
+    {
+      "id": 5,
+      "exercise": "Mountain climbers",
+      "description": "Mountain climbers are a dynamic exercise that engages your core, shoulders, and legs. Start in a plank position, bring one knee toward your chest, then quickly switch legs, as if you're running in place while maintaining the plank position.",
+      "reps": "20-30 (alternating legs)"
+    },
+    {
+      "id": 6,
+      "exercise": "Deadlifts",
+      "description": "Deadlifts are a compound exercise that primarily targets your hamstrings, glutes, and lower back. Stand with your feet hip-width apart, bend at the hips and knees to lower your hands to the barbell, then stand up straight, lifting the barbell with a controlled motion.",
+      "reps": "8-12"
+    },
+    {
+      "id": 7,
+      "exercise": "Plank",
+      "description": "The plank is an isometric exercise that strengthens your core muscles. Begin in a push-up position, resting on your forearms instead of your hands. Keep your body in a straight line from head to heels and hold the position for the desired duration.",
+      "reps": "Hold for 30-60 seconds"
+    },
+    {
+      "id": 8,
+      "exercise": "Bicycle crunches",
+      "description": "Bicycle crunches target your abdominal muscles, including the rectus abdominis and obliques. Lie on your back, bring your knees toward your chest, and lift your shoulders off the ground. Alternate touching your left elbow to your right knee and your right elbow to your left knee while pedaling your legs in a bicycle motion.",
+      "reps": "12-15 (per side)"
+    },
+    {
+      "id": 9,
+      "exercise": "Bench press",
+      "description": "The bench press is a compound exercise that primarily targets your chest, shoulders, and triceps. Lie on a flat bench, grip the barbell with hands slightly wider than shoulder-width apart, lower the barbell to your chest, then push it back up to the starting position.",
+      "reps": "8-10"
+    },
+    {
+      "id": 10,
+      "exercise": "Dumbbell shoulder press",
+      "description": "The dumbbell shoulder press is a shoulder-strengthening exercise. Stand or sit with dumbbells at shoulder level, palms facing forward. Press the dumbbells upward until your arms are fully extended, then slowly lower them back to the starting position.",
+      "reps": "10-12"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Omar.Sayed",
+      "password": "password",
+      "birthdate": "1992-07-10",
+      "email": "Omar.Sayed@example.com",
+      "excercises": [
+        5,
+        9,
+        6,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Omar.hassan",
+      "password": "password2",
+      "birthdate": "1988-12-01",
+      "email": "user002@example.com",
+      "excercises": [
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "username": "user003",
+      "password": "password003",
+      "birthdate": "1992-07-10",
+      "email": "user003@example.com",
+      "todo": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": 4,
+      "username": "user004",
+      "password": "password004",
+      "birthdate": "1988-12-01",
+      "email": "user004@example.com",
+      "excercises": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 5,
+      "username": "user005",
+      "password": "password005",
+      "birthdate": "1995-06-05",
+      "email": "user005@example.com"
+    },
+    {
+      "id": 6,
+      "username": "user006",
+      "password": "password006",
+      "birthdate": "1983-09-18",
+      "email": "user006@example.com"
+    },
+    {
+      "id": 7,
+      "username": "user007",
+      "password": "password007",
+      "birthdate": "1991-02-28",
+      "email": "user007@example.com"
+    },
+    {
+      "id": 8,
+      "username": "user008",
+      "password": "password008",
+      "birthdate": "1987-11-11",
+      "email": "user008@example.com",
+      "excercises": [
+        3,
+        2,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 9,
+      "username": "user009",
+      "password": "password009",
+      "birthdate": "1994-04-24",
+      "email": "user009@example.com"
+    }
+  ]
+}
