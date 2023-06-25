@@ -176,13 +176,6 @@
         6,
         7
       ]
-    },
-    {
-      "id": 9,
-      "username": "user009",
-      "password": "password009",
-      "birthdate": "1994-04-24",
-      "email": "user009@example.com"
     }
   ]
 }
