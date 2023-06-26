@@ -7,7 +7,6 @@ export const News = () => {
   return (
     <>
       <div>
-        OFFERS
         <h1>NEWS</h1>
         <p>
           Lorem ipsum dolor sit, amet c onsectetur adipisicing elit. Possimus

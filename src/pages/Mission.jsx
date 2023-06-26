@@ -10,12 +10,14 @@ export const Mission = () => {
       <button type="button" onClick={handleOnClick}>
         Start
       </button>
+      <p>Tough times don’t last but tough people do – Robert H. Schuller.</p>
       <p>
         Regular physical activity has been shown to impact stress reduction and
         mood improvement positively. Engaging in exercise stimulates the release
         of endorphins, the body's natural "feel-good" hormones, which can help
         alleviate stress and promote well-being.
       </p>
+      
     </div>
   );
 };

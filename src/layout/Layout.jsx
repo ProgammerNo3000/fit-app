@@ -9,7 +9,8 @@ export const Layout = () => {
         <MainMenu />
       </header>
       <Outlet />
-      <footer></footer>
+      <footer> 
+      </footer>
     </main>
   );
 };
