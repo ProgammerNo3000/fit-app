@@ -18,20 +18,20 @@ export const Workout = () => {
         </p>
         <p>
           <strong>1.</strong> Get down on all fours, placing your hands slightly
-          wider than your shoulders.&nbsp;
+          wider than your shoulders.
         </p>
         <p>
-          <strong>2.</strong> Straighten your arms and legs.&nbsp;
+          <strong>2.</strong> Straighten your arms and legs.
         </p>
         <p>
           <strong>3.</strong> Lower your body until your chest nearly touches
           the floor.&nbsp;
         </p>
         <p>
-          <strong>4.</strong> Pause, then push yourself back up.&nbsp;
+          <strong>4.</strong> Pause, then push yourself back up.
         </p>
         <p>
-          <strong>5.</strong> Repeat. &nbsp;
+          <strong>5.</strong> Repeat.
         </p>
       </div>
       <img
