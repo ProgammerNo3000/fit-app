@@ -40,18 +40,6 @@ export const Excercises = () => {
   return (
     <div className="todo-container">
       <h1 className="todo-title"> Excercises</h1>
-      {/* <div className="todo-input-container">
-        <input
-          type="text"
-          value={inputValue}
-          onChange={handleInputChange}
-          placeholder="Enter a task"
-          className="todo-input"
-        />
-        <button onClick={handleAddTodo} className="todo-button">
-          Add Excercis
-        </button>
-      </div> */}
       <ul className="todo-list">
         {user  &&
           excercises.map((excercis) => (
