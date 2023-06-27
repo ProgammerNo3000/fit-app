@@ -11,7 +11,6 @@ export const Service = () => {
         quam vel, adipisci quod voluptates praesentium inventore. Id
         reprehenderit eveniet autem sint culpa?
       </p>
-      <p>Contact</p>
       <Link to="/login">start</Link>
     </div>
   );

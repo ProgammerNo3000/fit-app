@@ -3,6 +3,7 @@ import { About } from "./About";
 import { Service } from "./Service";
 
 import React from "react";
+import Footer from "../footer/Footer";
 
 export const Landing = () => {
   return (
@@ -11,6 +12,8 @@ export const Landing = () => {
       <Mission />
       <About />
       <Service />
+      <Footer />
+
     </>
   );
 };
