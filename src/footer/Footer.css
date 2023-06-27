@@ -15,3 +15,16 @@
     align-items: flex-start;
     flex-wrap: wrap;
 }
+
+@media  (min-width: 961px) {
+
+    p h1 {
+        font-size: 12px;
+        color: green;
+    }
+  }
+  @media (max-width: 1200px) {
+    p{
+      color: black;
+    }
+  }
