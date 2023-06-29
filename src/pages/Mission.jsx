@@ -19,7 +19,7 @@ export const Mission = () => {
         of endorphins, the body's natural "feel-good" hormones, which can help
         alleviate stress and promote well-being.   
 
-        <img src="https://th.bing.com/th/id/R.0c8ccee97ae804e1520e04fea39f8c0d?rik=mlSWkxb6p6IyNQ&riu=http%3a%2f%2fbottletopmedia.com%2fwp-content%2fuploads%2f2018%2f02%2four-mission.jpg&ehk=0uL9Z5yuhK2TWab%2fDFHQVsKejnOjUlkDzxf89yagxjY%3d&risl=&pid=ImgRaw&r=0.jpg" alt="mission
+        <img className="missionimg" src="https://th.bing.com/th/id/R.0c8ccee97ae804e1520e04fea39f8c0d?rik=mlSWkxb6p6IyNQ&riu=http%3a%2f%2fbottletopmedia.com%2fwp-content%2fuploads%2f2018%2f02%2four-mission.jpg&ehk=0uL9Z5yuhK2TWab%2fDFHQVsKejnOjUlkDzxf89yagxjY%3d&risl=&pid=ImgRaw&r=0.jpg" alt="mission
         " ></img>
       </p>
       
