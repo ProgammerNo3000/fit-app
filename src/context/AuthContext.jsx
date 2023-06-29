@@ -45,7 +45,7 @@ export const AuthProvider = ({ children }) => {
     } else {
       newUser = {
         ...user,
-        excercises: user.excercises?[...user.excercises, excercisesId] : [excercisesId],
+     excercises: user.excercises?[...user.excercises, excercisesId] : [excercisesId],
       };
     }
     

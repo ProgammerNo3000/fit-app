@@ -100,7 +100,15 @@
       "password": "password",
       "birthdate": "1992-07-10",
       "email": "Omar.Sayed@example.com",
-      "excercises": []
+      "excercises": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        5,
+        3
+    ]
     },
     {
       "id": 2,
@@ -170,6 +178,30 @@
         7,
         2
       ]
+    } , {
+      "sportFacts": [
+        {
+          "sport": "Football",
+          "fact": "Football is the most popular sport in the world with billions of fans globally."
+        },
+        {
+          "sport": "Basketball",
+          "fact": "Basketball was invented by Dr. James Naismith in December 1891."
+        },
+        {
+          "sport": "Tennis",
+          "fact": "Tennis is believed to have originated in France in the 12th century."
+        },
+        {
+          "sport": "Cricket",
+          "fact": "Cricket is played with a bat and ball and has over 2.5 billion fans worldwide."
+        },
+        {
+          "sport": "8Golf",
+          "fact": "Golf is one of the oldest sports, with its origins traced back to 15th-century Scotland."
+        }
+      ]
     }
+    
   ]
 }
