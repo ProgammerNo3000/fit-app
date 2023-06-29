@@ -8,7 +8,7 @@ export const News = () => {
     <>
       <div>
         <h1>Newsletter</h1>
-        {/* <p>
+                {/* <p>
           Lorem ipsum dolor sit, amet c onsectetur adipisicing elit. Possimus
           laudantium aliquid repudiandae! Aspernatur doloremque at nesciunt
           neque quam vel, adipisci quod voluptates praesentium inventore. Id

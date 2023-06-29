@@ -12,7 +12,7 @@ const NavItems = [
 
 const ProtectedNavItems =[
   { title: "Locations", linkTo: "/protected/locations" },
-  { title: "Service", linkTo: "/protected/service" },
+  // { title: "Service", linkTo: "/protected/service" },
   { title: "Mission", linkTo: "/protected/mission" },
   { title: "Workout", linkTo: "/protected/workout" },
   { title: "News", linkTo: "/protected/news" },

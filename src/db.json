@@ -101,14 +101,15 @@
       "birthdate": "1992-07-10",
       "email": "Omar.Sayed@example.com",
       "excercises": [
-        6,
         7,
         8,
         9,
         10,
         5,
+        6,
+        4,
         3
-    ]
+      ]
     },
     {
       "id": 2,
@@ -178,7 +179,8 @@
         7,
         2
       ]
-    } , {
+    },
+    {
       "sportFacts": [
         {
           "sport": "Football",
@@ -202,6 +204,5 @@
         }
       ]
     }
-    
   ]
 }
